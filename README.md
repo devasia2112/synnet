@@ -90,16 +90,18 @@ O sistema foi desenvolvido para ser usado na web apenas.
 
 
 #### Custo de um software alternativo no mercado.
+
 | Software      | Mensal   | Anual  | <em>Adesão</em>  |
-| ------------- |:--------:|:------:| ----------------:|
+| ------------- | -------- | ------ | ----------------:|
 | Mercado       | R$300    | R$3600 | R$ 600 ~ R$ 1000 |
 
 <em>primeiro ano apenas.</em>
 
 
 #### Preco Final do sistema Synet (codigo fonte e banco de dados mysql incluso)
+
 | Software      | ~~Mensal~~   | Anual  | <em>Adesão</em> | **Source Code**     |
-| ------------- |:------------:|:------:|:---------------:|:-------------------:|
+| ------------- | ------------ | ------ | --------------- | ------------------- |
 | Synet         | R$180        | R$2160 | R$600           | R$68.000 ~ R$86.000 |
 
 ~~Sistema na nuvem para gerenciar até 600 clientes (inclui todos os módulos, inclusive o gerador de NF de Serviços Mod. 21)~~
