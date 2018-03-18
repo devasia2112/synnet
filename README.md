@@ -182,27 +182,27 @@ A seguir segue um resumo das principais funcionalidades já desenvolvidas e em e
 
 #### Custo de um software alternativo no mercado.
 
-| Software      | Mensal   | Anual  | <em>Adesão</em>  |
+| Software      | Mensal   | Anual  | Adesão           |
 | ------------- | -------- | ------ | ----------------:|
 | Mercado       | R$300    | R$3600 | R$ 600 ~ R$ 1000 |
 
-<em>primeiro ano apenas.</em>
+<em>Adesão no primeiro ano apenas.</em>
 
 
-#### Preco Final do sistema Synet (codigo fonte e banco de dados mysql incluso)
+#### Preco Final do sistema Synet (código fonte e banco de dados mysql incluso)
 
-| Software      | ~~Mensal~~   | Anual  | <em>Adesão</em> | **Source Code**     |
+| Software      | ~~Mensal~~   | Anual  | Adesão          | **Source Code**     |
 | ------------- | ------------ | ------ | --------------- | ------------------- |
 | Synet         | R$180        | R$2160 | R$600           | R$70.000 ~ R$86.000 |
 
 ~~Sistema na nuvem para gerenciar até 600 clientes (inclui todos os módulos, inclusive o gerador de NF de Serviços Mod. 21)~~
 
-<em>primeiro ano apenas, o valor da adesão é usado para cobrir despesas com instalação, configuração e customização do sistema Synet do cliente.</em>
+<em>Adesão no primeiro ano apenas, o valor da adesão é usado para cobrir despesas com instalação, configuração e customização do sistema Synet do cliente.</em>
 
 **O valor do código fonte depende da quantidade de módulos que será entregue no produto final. Aplica-se licença de redistribuição ou revenda**
 
 
-Caso não haja o interesse em adiquirir o código fonte ou a versão na nuvem, nós ainda disponibilizamos os módulos separadamente em nosso repositório no github, totalmente gratuíto, porem como os modulos foram sendo desenvolvidos em momentos diferentes, vai precisar de atualização nos módulos para que eles funcionem de forma integrada.
+Caso não haja o interesse em adiquirir o código fonte ou a versão na nuvem(pagamento mensal), nós ainda disponibilizamos os módulos separadamente em nosso repositório no github, totalmente gratuíto, porem como os modulos foram sendo desenvolvidos em momentos diferentes, vai precisar de atualização para que eles funcionem de forma integrada.
 
 No momento estamos trabalhando para disponibilizar uma versão online para testes nesse [link](https://synet.review/system/)
 
