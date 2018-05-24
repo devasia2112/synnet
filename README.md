@@ -29,7 +29,7 @@ A seguir segue um resumo das principais funcionalidades já desenvolvidas e em e
         - Fiscal
             - Dados de Clientes (Exportar PF e PJ)
             - Dados de Produtos (Exportar)
-            - [link to Google!](http://google.com) Dados NFSC Mod. 21 (Gerador dos Arquivos e Consulta das NFSC já Geradas - arquivo tem limite de 990 item por doc fiscal, inicio em .001)
+            - [Dados NFSC Mod. 21](https://github.com/deepcell/Nfsc21) (Gerador dos Arquivos e Consulta das NFSC já Geradas - arquivo tem limite de 990 item por doc fiscal, inicio em .001)
             - Dados NF-e (Gerador e Consulta)
             - Dados NFS-e (Gerador e Consulta via API da eNotas Gateway)
     - Gestão de Clientes
@@ -98,7 +98,7 @@ A seguir segue um resumo das principais funcionalidades já desenvolvidas e em e
             - Cadastro e Administração QoS
             - Cadastro e Administração Reserve
         - Servidor BFW (Execuções: Gerar, Mover e Recarregar Arquivos)
-        - Servidor Mikrotik (API)
+        - [Servidor Mikrotik (API)](https://github.com/deepcell/Mikrotik)
 
 - Inventário
     - Estoque
