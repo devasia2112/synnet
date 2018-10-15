@@ -202,9 +202,9 @@ A seguir segue um resumo das principais funcionalidades já desenvolvidas e em e
 **O valor do código fonte depende da quantidade de módulos que será entregue no produto final. Aplica-se licença de redistribuição ou revenda**
 
 
-Caso não haja o interesse em adiquirir o código fonte ou a versão na nuvem(pagamento mensal), nós ainda disponibilizamos os módulos separadamente em nosso repositório no github, totalmente gratuíto, porem como os modulos foram sendo desenvolvidos em momentos diferentes, vai precisar de atualização para que eles funcionem de forma integrada.
+Caso não haja o interesse em adiquirir o código fonte completo, alguns modulos estao disponiveis separadamente no repositório, totalmente gratuíto, porem como os modulos foram sendo desenvolvidos em momentos diferentes, vai precisar de atualização para que eles funcionem de forma integrada.
 
-No momento estamos trabalhando para disponibilizar uma versão online para testes nesse [link](https://synet.review/system/)
+No momento estou trabalhando para disponibilizar uma versão open source e um servidor para testes.
 
 Para doações por favor enviar bitcoin para o endereço: `1N4ukayY7vuyxJyGQuJkKjymamjUeXLBaa`
 ou PayPal para o email: `deepcell@gmail.com`
