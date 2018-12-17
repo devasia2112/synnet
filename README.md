@@ -206,5 +206,11 @@ Caso não haja o interesse em adiquirir o código fonte completo, alguns modulos
 
 No momento estou trabalhando para disponibilizar uma versão open source e um servidor para testes.
 
-Para doações por favor enviar bitcoin para o endereço: `1N4ukayY7vuyxJyGQuJkKjymamjUeXLBaa`
-ou PayPal para o email: `deepcell@gmail.com`
+Para doações por favor enviar: 
+-Bitcoin: `39fNfmdJEL77CLuYXe3WzTgeYbF346LE9i`
+-Dogecoin: `DP6jE9QfJYDnW9fLp6YWdzudo6TKLYbUnU`
+-Litecoin: `LL5DKT63SQngT2j1az8EV7fpikgAxMTbqk`
+-Zcash: `t1Ma3hV7mNMR3Npp8eGeZzq1G2amdpAPuxg`
+-Monero: `4828JWzwtXtMYesdzsGv3WEgFobS9VPTyd6rpo86eMrCa9P7A8RXcKjHDoEjhHFRW27tAZMd7ks2dW76wnxsZs6DNmmBQue`
+-Zcoin: `a32UsRrGM5q9m6g8D4z9AtDPLCEoJxAdHw`
+-PayPal email: `deepcell@gmail.com`
