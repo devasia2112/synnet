@@ -1,4 +1,4 @@
-## Sistema Synet
+## Sistema Synnet
 
 O sistema encontra-se em constante desenvolvimento e atualização e pode ser ofereçido como serviço na web ou instalado localmente em um servidor web.
 A seguir segue um resumo das principais funcionalidades já desenvolvidas e em estágio de desenvolvimento.
@@ -102,7 +102,7 @@ A seguir segue um resumo das principais funcionalidades já desenvolvidas e em e
 
 - Inventário
     - Estoque
-        - Entrada 
+        - Entrada
         - Sada
         - Consulta por Local
         - Transferência de Estoque de um local para outro
@@ -162,51 +162,24 @@ A seguir segue um resumo das principais funcionalidades já desenvolvidas e em e
     - Material de Apoio (Videos)
 
 
-
-*** Meios de Pagamento
-    - Homologação de Boleto Bancário direto com o Banco (Homologamos por R$ 600,00)
-    - Boletos via Gateways (via API, fácil e rápido de implementar - sem custo adicional)
+*** Meios de Pagamento (implica custo extra)
+    - Boleto Bancário via homologação direto com o Banco (Homologamos por R$ 600,00)
+    - Boletos via Gateways (Homologamos qualquer API por R$ 600,00)
     - Homologação de Cartão de Crédito via Cielo (Homologamos por R$ 600,00)
 
 
 - Mais Informações
     - Clientes ilimitados
     - Rádios e RB ilimitados.
-    - Importamos o seu banco de dados por R$ 350,00
+    - Importamos o seu banco de dados por R$ 450,00
 
 
 - Ambiente de Instalação
-    - Servidor Linux Debian 8 x64 (Jessie), PHP versão 5.3+, MySQL 5.5+, Python 2.7+, Nginx 1.10+ ou Apache 2.2.2+
+    - Servidor Linux Debian 8 x64 (Jessie) ou superior, PHP versão 5.3+, MySQL 5.5+ ou MariaDB, Python 2.7+, Nginx 1.10+ ou Apache 2.2.2+
+		- Versao Legacy funciona nas versoes: PHP<=5.2.x, PHP>5.6.x
 
 
-
-#### Custo de um software alternativo no mercado.
-
-| Software      | Mensal   | Anual  | Adesão           |
-| ------------- | -------- | ------ | ----------------:|
-| Mercado       | R$300    | R$3600 | R$ 600 ~ R$ 1000 |
-
-<em>Adesão no primeiro ano apenas.</em>
-
-
-#### Preco Final do sistema Synet (código fonte e banco de dados mysql incluso)
-
-| Software      | ~~Mensal~~   | Anual  | Adesão          | **Source Code**     |
-| ------------- | ------------ | ------ | --------------- | ------------------- |
-| Synet         | R$180        | R$2160 | R$600           | R$70.000 ~ R$86.000 |
-
-~~Sistema na nuvem para gerenciar até 600 clientes (inclui todos os módulos, inclusive o gerador de NF de Serviços Mod. 21)~~
-
-<em>Adesão no primeiro ano apenas, o valor da adesão é usado para cobrir despesas com instalação, configuração e customização do sistema Synet do cliente.</em>
-
-**O valor do código fonte depende da quantidade de módulos que será entregue no produto final. Aplica-se licença de redistribuição ou revenda**
-
-
-Caso não haja o interesse em adiquirir o código fonte completo, alguns modulos estao disponiveis separadamente no repositório, totalmente gratuíto, porem como os modulos foram sendo desenvolvidos em momentos diferentes, vai precisar de atualização para que eles funcionem de forma integrada.
-
-No momento estou trabalhando para disponibilizar uma versão open source e um servidor para testes.
-
-Para doações por favor enviar: 
+Para doações por favor enviar:
 - Bitcoin: `39fNfmdJEL77CLuYXe3WzTgeYbF346LE9i`
 - Dogecoin: `DP6jE9QfJYDnW9fLp6YWdzudo6TKLYbUnU`
 - Litecoin: `LL5DKT63SQngT2j1az8EV7fpikgAxMTbqk`
