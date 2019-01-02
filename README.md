@@ -162,7 +162,7 @@ A seguir segue um resumo das principais funcionalidades já desenvolvidas e em e
     - Material de Apoio (Videos)
 
 
-*** Meios de Pagamento (implica custo extra)
+- Meios de Pagamento (implica custo extra)
     - Boleto Bancário via homologação direto com o Banco (Homologamos por R$ 600,00)
     - Boletos via Gateways (Homologamos qualquer API por R$ 600,00)
     - Homologação de Cartão de Crédito via Cielo (Homologamos por R$ 600,00)
@@ -176,7 +176,8 @@ A seguir segue um resumo das principais funcionalidades já desenvolvidas e em e
 
 - Ambiente de Instalação
     - Servidor Linux Debian 8 x64 (Jessie) ou superior, PHP versão 5.3+, MySQL 5.5+ ou MariaDB, Python 2.7+, Nginx 1.10+ ou Apache 2.2.2+
-		- Versao Legacy funciona nas versoes: PHP<=5.2.x, PHP>5.6.x
+    - Versao Legacy funciona nas versoes: PHP<=5.2.x, PHP>5.6.x
+
 
 
 Para doações por favor enviar:
@@ -187,3 +188,6 @@ Para doações por favor enviar:
 - Monero: `4828JWzwtXtMYesdzsGv3WEgFobS9VPTyd6rpo86eMrCa9P7A8RXcKjHDoEjhHFRW27tAZMd7ks2dW76wnxsZs6DNmmBQue`
 - Zcoin: `a32UsRrGM5q9m6g8D4z9AtDPLCEoJxAdHw`
 - PayPal email: `deepcell@gmail.com`
+
+
+**IMPORTANTE** A versão de código aberto disponível neste repositório refere-se ao código refatorado da versão Legacy, alguns recursos da versão Legacy não estarão disponíveis nesta versão de código aberto. Para mais informações sobre a versão Legacy, envie-me um e-mail.
