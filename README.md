@@ -163,15 +163,15 @@ A seguir segue um resumo das principais funcionalidades já desenvolvidas e em e
 
 
 - Meios de Pagamento (implica custo extra)
-    - Boleto Bancário via homologação direto com o Banco (Homologamos por R$ 600,00)
-    - Boletos via Gateways (Homologamos qualquer API por R$ 600,00)
-    - Homologação de Cartão de Crédito via Cielo (Homologamos por R$ 600,00)
+    - Boleto Bancário via homologação direto com o Banco (Homologamos por R$ 1200,00)
+    - Boletos via Gateways (Homologamos qualquer API por R$ 1200,00)
+    - Homologação de Cartão de Crédito via Cielo (Homologamos por R$ 1200,00)
 
 
 - Mais Informações
     - Clientes ilimitados
     - Rádios e RB ilimitados.
-    - Importamos o seu banco de dados por R$ 450,00
+    - Importamos o seu banco de dados por R$ 900,00
 
 
 - Ambiente de Instalação
