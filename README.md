@@ -181,13 +181,7 @@ A seguir segue um resumo das principais funcionalidades já desenvolvidas e em e
 
 
 Para doações por favor enviar:
-- Bitcoin: `39fNfmdJEL77CLuYXe3WzTgeYbF346LE9i`
-- Dogecoin: `DP6jE9QfJYDnW9fLp6YWdzudo6TKLYbUnU`
-- Litecoin: `LL5DKT63SQngT2j1az8EV7fpikgAxMTbqk`
-- Zcash: `t1Ma3hV7mNMR3Npp8eGeZzq1G2amdpAPuxg`
 - Monero: `4828JWzwtXtMYesdzsGv3WEgFobS9VPTyd6rpo86eMrCa9P7A8RXcKjHDoEjhHFRW27tAZMd7ks2dW76wnxsZs6DNmmBQue`
-- Zcoin: `a32UsRrGM5q9m6g8D4z9AtDPLCEoJxAdHw`
-- PayPal email: `deepcell@gmail.com`
 
 
 **IMPORTANTE** A versão de código aberto disponível neste repositório refere-se ao código refatorado da versão Legacy, alguns recursos da versão Legacy não estarão disponíveis nesta versão de código aberto. Para mais informações sobre a versão Legacy, envie-me um e-mail.
